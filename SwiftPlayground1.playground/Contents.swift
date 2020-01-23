@@ -25,3 +25,15 @@ print(combined)
 
 var appState = false
 print(appState)
+
+var numberOne = 5
+
+var numberTwo = 7
+//Change the sign to make it false AKA make it >
+var comparison = numberOne < numberTwo
+//on your own. make 2 diff strings
+var numOne = 1
+
+var numTwo = 1
+// assign to same string
+var combine = numOne == numTwo
